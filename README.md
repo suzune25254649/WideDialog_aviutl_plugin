@@ -1,0 +1,2 @@
+# WideDialog_aviutl_plugin
+aviutlのオブジェクト設定ダイアログを、幅広にするプラグイン
